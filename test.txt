@@ -1,2 +1,4 @@
 HELLO! This is for test purpose.
-This is from Master branch
+This is from Master branches.
+
+ADDED NEW LINE DOR DIFFERENTIATION.
